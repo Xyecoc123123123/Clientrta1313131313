@@ -1,0 +1,15 @@
+{
+  "name": "glbn",
+  "productName": "GLBN",
+  "version": "1.0.0",
+  "description": "GLBN — красивый VPN/proxy-клиент с темами и анимациями",
+  "main": "main.js",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^33.0.0"
+  }
+}
